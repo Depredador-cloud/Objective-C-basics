@@ -312,7 +312,3 @@ Console.WriteLine(account.Balance);  // Output: 300
 ## Conclusion
 
 Object-Oriented Programming is a powerful paradigm that helps in organizing and structuring software in a more manageable and scalable way. By understanding and applying OOP concepts such as encapsulation, inheritance, polymorphism, and abstraction, you can create robust and maintainable code.
-
----
-
-Feel free to extend this guide with more examples and explanations as needed for your GitHub repository.
